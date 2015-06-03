@@ -1,17 +1,17 @@
-# Hello World
-> A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+# Resistance
 
-## View slides locally
+Ok guys , Judul Dari Tugas kita ini adalah Dampak "Teknologi Bagi Dunia"
+disini kita di beri tugas selama 2 minggu untuk membuat persentase Project Bespoke.js 
 
-First, ensure you have the following installed:
+Saya Yakin Teman" sekalian banyak memiliki pengetahuan dan pengalaman yang berbeda dalam Dunia Teknologi.
+ok disini saya sangat mengharapkan teman " dapat mengeshare pengetahuan teman" tersebut , sehingga kita dapat menyimpulkan 
+dan membuat persentase nya dengan baik . 
 
-1. [Node.js](http://nodejs.org)
-2. [Bower](http://bower.io): `$ npm install -g bower`
-3. [Gulp](http://gulpjs.com): `$ npm install -g gulp`
+saya tidak menentukan mau kapan teman" sekalian mempush data ke dalam repository ini , jadi ini tergantung niat teman" untuk 
+berpartisipasi , tapi saya mengharapkan setidaknya dalam 1 hari teman" bisa mempush data baru ataupun data clone yang diambil
+dari data yang sudah ada. 
 
-Then, install dependencies and run the preview server:
+dan jangan sungkan untuk menanyakan sesuatu yang kurang di mengerti kepada saya (Scrum Master) , saya akan mencoba mencari tahu apa yang anda kurang mengerti dan jika saya tidak mengerti juga kita bisa menanyakan tugas ini ke pada dosen kita.
 
-```bash
-$ npm install && bower install
-$ gulp serve
-```
+Saya harapkan Kerja samanya ^_^
+Have fun guys.
