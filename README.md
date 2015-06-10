@@ -7,7 +7,7 @@ Saya Yakin Teman" sekalian banyak memiliki pengetahuan dan pengalaman yang berbe
 ok disini saya sangat mengharapkan teman " dapat mengeshare pengetahuan teman" tersebut , sehingga kita dapat menyimpulkan 
 dan membuat persentase nya dengan baik . 
 
-saya tidak menentukan mau kapan teman" sekalian mempush data ke dalam repository ini , jadi ini tergantung niat teman" untuk 
+saya tidak menentukan mau kapan teman-teman sekalian ngepush data ke dalam repository ini , jadi ini tergantung niat teman" untuk 
 berpartisipasi , tapi saya mengharapkan setidaknya dalam 1 hari teman" bisa mempush data baru ataupun data clone yang diambil
 dari data yang sudah ada. 
 
